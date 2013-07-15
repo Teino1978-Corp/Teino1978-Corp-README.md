@@ -19,24 +19,6 @@ typeahead experience.
 [gh-page]: http://twitter.github.io/typeahead.js/
 [twitter.com]: https://twitter.com
 
-Getting Started
----------------
-
-How you acquire typeahead.js is up to you.
-
-Preferred method:
-* Install with [Bower]: `$ bower install typeahead.js`
-
-Other methods:
-* [Download zipball of latest release][zipball].
-* Download the latest dist files individually:
-  * *[dataset.js]*
-  * *[typeahead.js]*
-  * *[typeahead.bundle.js]* (dataset + typeahead)
-  * *[typeahead.bundle.min.js]*
-
-**Note:** both dataset.js and typeahead.js have a dependency on [jQuery] 1.9+.
-
 <!-- section links -->
 
 [Bower]: http://bower.io/
